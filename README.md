@@ -27,5 +27,5 @@
 ---
 
 📫 **Entre em contato:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/danilo-cruz-8805a2213/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-cruz-8805a2213/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=web&logoColor=white)](https://daansmyth.github.io/portifolio)
