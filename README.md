@@ -21,11 +21,11 @@
 ---
 
 ### 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daansmyth&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daansmyth&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daancruz&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daancruz&layout=compact&theme=tokyonight)
 
 ---
 
 📫 **Entre em contato:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-cruz-8805a2213/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=web&logoColor=white)](https://daansmyth.github.io/portifolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daancruz/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=web&logoColor=white)](https://daancruz.github.io/portifolio)
